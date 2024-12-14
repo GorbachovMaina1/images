@@ -45,6 +45,8 @@ Issues related to these images can be reported in [an issue](https://github.com/
 
 The Lhq1 task involves adding a new section to the README.md file. This section should provide a brief description of the Lhq1 task and include any relevant information or instructions for completing the tasks.
 
+The `check-image-size.sh` script checks the size of a Docker image and compares it against a specified threshold. It is sourced and used in the `test.sh` script located at `.github/actions/smoke-test/test.sh`. The `check_image_size` function is called only if the image name is "universal".
+
 # License
 Copyright (c) Microsoft Corporation. All rights reserved. <br />
 Licensed under the MIT License. See [LICENSE](LICENSE).
