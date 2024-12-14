@@ -41,6 +41,10 @@ This repository contains a select set of images, and we encourage the community 
 
 Issues related to these images can be reported in [an issue](https://github.com/devcontainers/images/issues) in this repository.
 
+## Lhq1
+
+The Lhq1 task involves adding a new section to the README.md file. This section should provide a brief description of the Lhq1 task and include any relevant information or instructions for completing the tasks.
+
 # License
 Copyright (c) Microsoft Corporation. All rights reserved. <br />
 Licensed under the MIT License. See [LICENSE](LICENSE).
